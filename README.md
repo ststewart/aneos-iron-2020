@@ -2,8 +2,7 @@
 
 ANEOS IRON MODEL<br>
 
-![Alt text](Zenodo doi:10.5281/zenodo.3866507)
-<img src="./zenodo.3866507.svg">
+<a href="https://zenodo.org/record/3866507"><img src="./zenodo.3866507.svg"></a>
 
 Sarah T. Stewart. (2020, May 30). Equation of State Model Iron ANEOS: Documentation and Comparisons (Version SLVTv0.2G1). Zenodo. http://doi.org/10.5281/zenodo.3866507<p>
 
