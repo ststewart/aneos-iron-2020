@@ -1,0 +1,33 @@
+
+Iron, R0 =  7.873 g/cc
+
+    m        U        D        Cs          P        R/R0      R          E-E0   Rem  Ref
+  1.000    0.961    5.485    6.120      41.499     1.212    9.5454      0.462         1
+  1.000    1.180    5.834    6.700      54.199     1.254    9.8692      0.696         1
+  1.000    2.135    7.335    7.850     123.293     1.411   11.1055      2.279         1
+  1.000    2.630    8.114    8.490     168.009     1.480   11.6487      3.458         1
+  1.000    3.696    9.791    9.530     284.905     1.606   12.6472      6.830         1
+  1.000    4.184   10.558    9.980     347.787     1.656   13.0410      8.753         1
+  1.000    3.479    9.470    9.510     259.385     1.581   12.4449      6.052         2
+  1.000    3.521    9.534    9.490     264.291     1.586   12.4832      6.199         2
+  1.000    4.060   10.405   10.030     332.589     1.640   12.9107      8.242         2
+
+References:
+1. L. V. Al'tshuler, S. B. Kormer, M. I. Brazhnik, L. A. Vladimirov, M. P.
+   Speranskaya, A. I. Funtikov, The isentropic compressibility of aluminum,
+   copper, lead at high pressures, Zh. Eksp. Teor. Fiz. 38(4), 1061-1073 (1960)
+   [in Russian] (Sov. Phys. - JETP 11(4), 766-775 (1960))
+2. J. M. Brown, R. G. McQueen, Phase transitions, Gruneisen parameter, and
+   elascticity for shocked iron between 77 GPa and 400 GPa, J. Geophys. Res. Ser.
+   B. 91(7), 7485-7494 (1986)
+
+Denotions:
+R0   - normal density of substance, g/cc
+m    - porosity of sample
+U    - particle velocity, km/s
+D    - shock wave velocity, km/s
+Cs   - sound velocity, km/s
+P    - pressure behind shock front, GPa
+R/R0 - compression ratio behind shock front
+R    - density behind shock front, g/cc
+E-E0 - specific energy behind shock front, kJ/g

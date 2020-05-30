@@ -1,0 +1,39 @@
+
+Iron, R0 =  7.873 g/cc
+
+    m        U0       P0       U        P     Rem  Ref
+  1.000    1.840   98.000    2.450   57.500         1
+  1.000    1.840   98.000    2.720   37.400         1
+  1.000    1.840   98.000    2.730   39.500         1
+  1.000    1.840   98.000    3.000   25.000         1
+  1.000    1.840   98.000    3.050   20.600         1
+  1.000    1.840   98.000    3.290   12.900         1
+  1.000    1.840   98.000    3.420    5.900         1
+  1.000    1.840   98.000    3.500    4.900         1
+  1.000    1.840   98.000    3.720    0.020         1
+  1.000    2.460  154.000    3.340   89.200         1
+  1.000    2.460  154.000    3.600   63.400         1
+  1.000    2.460  154.000    3.680   58.300         1
+  1.000    2.460  154.000    4.110   33.700         1
+  1.000    2.460  154.000    4.760    8.900         1
+  1.000    2.460  154.000    5.180    0.037         1
+  1.003    2.880  193.000    3.450  133.200         2
+  1.003    2.880  193.000    3.720  106.200         2
+  1.003    2.880  193.000    4.100   72.900         2
+  1.003    2.880  193.000    4.650   48.200         2
+  1.003    2.880  193.000    5.850    0.047         2
+
+References:
+1. M. V. Zhernokletov, G. V. Simakov, Yu. N. Sutulov, R. F. Trunin, Unload
+   isentrops of aluminium, iron, molybdenum, lead and tantalum, Teplofiz. Vys.
+   Temp. 33(1), 40-43 (1995) [in Russian]
+2. A. O. Borshchevskiy, M. M. Gorshkov, V. T. Zaikin, V. G. Vil'danov,
+   Issledovanie Razgruzki Zheleza: Preprint No. 53, (Snezhinsk, VNIITF, 1997)
+
+Denotions:
+R0 - normal density of substance, g/cc
+m  - porosity of sample
+U0 - particle velocity on shock Hugoniot, km/s
+P0 - pressure on shock Hugoniot, GPa
+U  - particle velocity, km/s
+P  - pressure, GPa
