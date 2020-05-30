@@ -2,7 +2,8 @@
 
 ANEOS IRON MODEL<br>
 
-Stewart, S. T., Equation of State Model Iron-ANEOS-SLVTv0.2G1: Documentation and Comparisons (Release 1.0), Zenodo doi:TBD.<p>
+Stewart, S. T., Equation of State Model Iron-ANEOS-SLVTv0.2G1: Documentation and Comparisons (Release 1.0), Zenodo doi:TBD.<br>
+Find doi in master README at https://github.com/ststewart/aneos-iron-2020/<p>
 
 Open iron_aneos.ipynb or iron_aneos.html<p>
 
